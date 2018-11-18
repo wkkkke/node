@@ -1,0 +1,10 @@
+express框架
+1.安装
+npm install -g express框架
+2.创建express项目
+mkdir 文件名
+Express -e 文件名
+3.启动
+4.他是一个mvc 
+入口文件：app.js----->路由文件----->控制器（controller）{<----->views
+                                                      {<----->models---->mysql
